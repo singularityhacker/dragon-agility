@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Serif - A Jekyll Business Theme.
 
-Just a test. Hello world. The theme is fully responsive, blazing fast and artfully illustrated.
+Just a test. Hello world 2. The theme is fully responsive, blazing fast and artfully illustrated.
