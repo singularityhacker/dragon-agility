@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Dragon Agility Group
 layout: home
 description: Another test. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Dragon Agility Group 🐉
 
-Just a test. Hello world 2. The theme is fully responsive, blazing fast and artfully illustrated.
+A systems-level approach to agile software delivery.
