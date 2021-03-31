@@ -2,11 +2,11 @@
   {
     "name": "Github",
     "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "image": "images/social/github.png"
   },
   {
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "image": "images/social/twitter.png"
   }
 ]
