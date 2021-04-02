@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Program Audits",
+    "description": "Receive a comprehensive audit of your delivery process.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Experts",
+    "description": "All members of our team are experienced agile thought leaders.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Data-Driven Results",
+    "description": "Our empirical approach produces objective results.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
