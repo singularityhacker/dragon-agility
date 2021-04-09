@@ -14,6 +14,8 @@ If the model of an organization's software delivery is the code of that org, wha
 
 No two organizations of the same. No two organizations will have the same values, roles, workflow, or personalities. Why then do we try to apply generic documents do widely diverse groups in such a way that ignores or disregards their distinct characteristics? Creating your own agility handbook provides an opportunity to capture in natural language how your organization works, the number and function of the different roles, and how different entities relate and interact to produce value. It also acts as a critical change agent because as the organization changes those changes make their way back into the agility handbook which then gets repropagated throughout the organization.
 
+See: https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/
+
 ## Case Study: MyUPMC
 
 At the beginning of the 2020 global pandemic, the MyUPMC software group faced a trifecta of sudden change:
@@ -56,7 +58,7 @@ We have to be careful that in our attempt to champion the spirit of what we beli
 
 Potential or common deviations:
 
-1.  Pure kanban teams. They very likely won't have the same ceremonies as a team that's sprinting. 
+1.  Pure kanban teams. They very likely won't have the same ceremonies as a team that's sprinting.
 2.  Component teams that provide critical infrastructure requirements to your feature teams and don't produce vertical slice features as their primary deliverables.
 
 These exceptions are not outliers in fact, they are the vast majority of the norm as it's been documented that most teams you said mixed methods approach \[show chart\].
@@ -68,7 +70,7 @@ There will be specific implementation details and pain points specific to your o
 1.  Release planning (Nexus?)
 2.  Workflows (Kanban)
 3.  Component teams and tribes (SAFe influence)
-4.  The Prime Directive (Values) 
+4.  The Prime Directive (Values)
 
 The Alternative
 
@@ -84,7 +86,7 @@ Two final thoughts before moving into our final section:
 1.  Actionable: As useful as a map. Comprehensive enough to be useful in onboarding.
 2.  Concise: Short enough to read in one sitting (Concise with moderate commitment).
 3.  Living + dynamic: In Source control, anyone can make a pull request and everyone can subscribe to changes. This produces a mechanism whereby the document evolves and changes through the natural review process and engineers are accustomed to.
-4.  Endorsed: this means leadership is behind it and it's put its stamp on it and presented it to the organization as the dynamic blueprint for its software process. 
+4.  Endorsed: this means leadership is behind it and it's put its stamp on it and presented it to the organization as the dynamic blueprint for its software process.
 
 ---
 
