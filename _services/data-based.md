@@ -1,7 +1,7 @@
 ---
 
 title: "Data Based"  
-date: 2021-04-213T15:15:26+10:00  
+date: 2021-04-13T15:15:26+10:00  
 featured: true  
 weight: 3  
 layout: service
@@ -17,6 +17,8 @@ One of the most prominent convictions and values of the Dragon agility group is 
 ## Measuring delivery
 
 Agile delivery metrics have been treated like Alchemy for far too long. The confusion could not be deeper regarding what produces a predictable and stable software delivery system. In fact, it was the very concerned in this area that prompted to birth of the Dragon agility group. We have gone to Great Lengths to cut through the fud on this issue and produced a rigorous and comprehensive method for measuring and improving the rate and predictability of software delivery. We've even gone so far as to instantiate our methodology into a software tool called Animus BI. 
+
+\[Agile Delivery Metrics\]
 
 ## Measuring culture
 
