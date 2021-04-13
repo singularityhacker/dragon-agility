@@ -19,6 +19,8 @@ The first goal of an organization's agile working group is to educate itself. As
 3.  Kanban
 4.  ITIL
 5.  LESS
+6.  [Team Topologies](https://www.atlassian.com/devops/frameworks/team-topologies)
+7.  Nexus
 
 ## The Organizations University of Learning
 
