@@ -1,50 +1,34 @@
 ---
-title: "Data Based"
-date: 2018-11-28T15:15:26+10:00
-featured: true
-weight: 3
+
+title: "Data Based"  
+date: 2021-04-213T15:15:26+10:00  
+featured: true  
+weight: 3  
 layout: service
+
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+There's no shortage of people or systems claiming to have the right or best way to do things. And most of them have the white papers and research to back it up. So how does one navigate these competing and sometimes contradictory approaches? Even if you do move forward with a particular method of organization, how do you know if you've achieved the results you're supposed to or how do you know that you've implemented it properly and gotten the promised benefits? One problem with this is it frequently, peoples subjective feelings related to working hard and getting things done become the standard of success. This is highly problematic and I don't need to go to Great Lengths to prove that. With money, resources, end time on the line, we should not be relying on subjective impressions of improvement.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Data-Based Goals and Results
 
-## Geniti facinus praeruptam atris ab manus in
+One of the most prominent convictions and values of the Dragon agility group is 2 increase the rigor of agile methods. This means establishing Baseline metrics for a system before implementing changes such that the impact of those changes can be empirically and objectively measured after. Now exactly what those metrics are may change with time and with learning and as well what those practices are will change put the relationship in the priority of a measure-test-measure feedback loop should not change.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## Measuring delivery
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Agile delivery metrics have been treated like Alchemy for far too long. The confusion could not be deeper regarding what produces a predictable and stable software delivery system. In fact, it was the very concerned in this area that prompted to birth of the Dragon agility group. We have gone to Great Lengths to cut through the fud on this issue and produced a rigorous and comprehensive method for measuring and improving the rate and predictability of software delivery. We've even gone so far as to instantiate our methodology into a software tool called Animus BI. 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+## Measuring culture
 
-## Vidit si probetne vertitur
+What about the intangibles you ask. What about the human element? We are in fact dealing with people not machines. Once again, this doesn't mean that we don't try to understand things in it structured in measurable way. It's for this reason that we prescribe and practice regular pulse checks of individual and team satisfaction and subjective experience of work. We do this through surveys and interviews immediately following onboarding training, exit interviews, and regular pulse surveys. 
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+## Program Evaluation
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+We offer a program evaluation service that can get you started down this road of empirical evaluation and analysis. It involves the following:
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+1.  We start by establishing a basic model have your delivery system
+2.  Second, we establish what metrics can be ascertained from the existing system
+3.  Thirdly, using your model and available metrics we establish the best available Baseline for how effectively you currently operate
+4.  Lastly, we provide a report suggesting changes to your model and available metrics that would produce a higher fidelity and more controllable system
+
+Armed with the above leadership can then make more informed decisions on areas of growth are possible next steps. One could compare it to a physical examination prior to starting a new training routine. The results of the physical should and would inform the parameters of that new training regime.
