@@ -1,53 +1,27 @@
 ---
-title: "Remote Native"
-date: 2018-11-28T15:14:54+10:00
-featured: true
-weight: 5
+
+title: "Remote Native"  
+date: 2018-11-28T15:14:54+10:00  
+featured: true  
+weight: 5  
 layout: service
+
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Up to this point, almost all interpretations of the agile Manifesto endorse collocation as the only prescribed method of Team organization. Notice I said interpretations. That's because we don't dispute the exact wording of the six principal the agile Manifesto which is: 
 
-## Ne verba patulosque numen vix libet
+"The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.”
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+What we do dispute is it it's necessary to be co-located to engage in maximally effective face-to-face conversation. Things have changed a lot since 2007. And far from being a disadvantage or even in neutral point the advantages a remote organization has come to so far outweigh the insistence on co-location that we feel it's a crime to not leverage them.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Talent Pool
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+More talent.
 
-## Postquam tamen
+## Commute and Work-Life Ballance
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Better balance.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Speed
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Faster delivery. By organizing into time-shifted teams, an organization has the ability to dramatically increase its productivity and rate of delivery.
