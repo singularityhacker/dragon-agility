@@ -1,71 +1,29 @@
 ---
 
 title: "Learning Centered"  
-date: 2018-11-28T15:14:39+10:00  
+date: 2021-04-13T15:14:39+10:00  
 featured: true  
 weight: 2  
 layout: service
 
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares  
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)  
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada](#pia-non)  
-[quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non  
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto  
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat  
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura  
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+A central Concept in the agile thought space is the concept of a feedback loop in the primary benefit of the feedback loop is learning so instead of learning that you're wrong or right three to six months down the road you create smaller feedback loops good let you know whether you're right or wrong in days or weeks. Another prominent area where learning takes Center Stage is in the role of the agilest. The agilist or scrum master has no official Authority and yet a part of their job is to effect change. So how is this change take place if there is no authority to enact it? They do it through persuasive education. So rather than merely seeing this education is an unspoken feature of the agile system, the dragon agility group does elevate it 2 core principle that leads into a systematic strategy and approaches two organizational-wide change. So whereas other business agility transformation systems May emphasize specific practices or new roles, we emphasize the communication, understanding, and evaluation of new ideas and Concepts propagated throughout the organization. In this way, practices and effective roles are an organic by-product of individuals whose ideas have been changed and won over the agile delivery way. This learning-centered approach manifests at several levels and we'll examine them now.
 
-Automated education
+## The Organizations Agile Working Group (AWG)
 
-YourOrg University
+The first goal of an organization's agile working group is to educate itself. As servant leaders, Agilists are to be leading by example and engaging in continuous learning, then they can expect anyone else to do it either. This means advancing their knowledge of agile methods, the business in which they work, and general personal self-improvement. While the Dag aims to be an improvement in advancement on standard agile practices, we don't in the slightest deem education, familiarity, and certification, and existing agile methodologies a waste of time. In fact, it's our stated purpose to advance and add to the various ideas contained in this approach by increase familiarity with existing methods such that we keep and modify what works remove what doesn't. This includes familiarity in the following approaches and schools of thought:
 
-NFT badges
+1.  SAFe
+2.  Scrum at Scale
+3.  Kanban
+4.  ITIL
+5.  LESS
 
-COP's
+## The Organizations University of Learning
 
-## Inter pectore totidem
+Having established the need for the AWG to be always learning and growing, the next logical step is for the rest of the program to do the same? But how is this established in a systematic way? Why is you saw in system-level design, the program is split along two axes. The first is feature teams that deliver user-facing features, while the other is tribes or communities of practice. As has already been discussed, these are comprised of specialists shared across all the feature teams. Now just as there are regular recurring highly structured sessions designed to facilitate the needs of the feature teams, so there are also regular highly structured sessions to facilitate the needs of the tribes. As the output of the team sessions is the movement of work through the workflow to user-facing features, so the output of the tribe sessions are captured learning sessions they can then be referenced to repurpose in the future that together comprise an organization's "University" of knowledge. Different members of a tribe volunteer to teach and lead these sessions while attendees get the benefit of progressing through various stages of familiarity and competency among their peers. These sessions can be scheduled in advance in organized in such a way to provide new additions to the organization or to the tribe ineffective and highly relevant course of study and achievement.
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos  
-lassavit nihil oracula exiguo ligatis.
+## The Future
 
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,  
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,  
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit  
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire  
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum  
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,  
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur  
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere  
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit  
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego  
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a  
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam  
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis  
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita  
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque  
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant  
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,  
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas  
-habenas, ne dici Canenti.
-
-1.  Induruit huc grave simili
-2.  Praecincti natos
-3.  Ad dedit parentem
-4.  Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi  
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+In keeping with our value of tools and automation, there are routes to making this large-scale educational effort more effective and resilient. Firstly, it's now possible to programmatically generate video material from written documentation. This means that our emphasis on manual-driven practice and understanding can effortlessly lead to more easily digestible educational content. It's also now possible to programmatically generate tests from the same written content to evaluate learners' understanding of what was presented. Both of these ideas are captured in the concept of "automated education". Another technical feature that could be added to this is a badging system that qualifies both learner's and teachers' progression and contribution to the university. Something like completion, achievement, or graduation badges could be added to this system using something like an NFT that would bring gamification mechanics into the system.
