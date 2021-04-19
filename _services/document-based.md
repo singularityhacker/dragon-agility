@@ -42,7 +42,7 @@ Every organization’s software delivery process is going to be inevitably uniqu
 
 ![](https://user-images.githubusercontent.com/1808235/115281794-640faa00-a117-11eb-9b3d-797ec697c98b.jpg)
 
-For a detailed breakdown of this work here.
+See our [case studies page](https://dragonagility.com/case-studies/) for a detailed breakdown of this work.
 
 **Motivation**
 
