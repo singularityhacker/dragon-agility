@@ -22,7 +22,7 @@ At the beginning of the 2020 global pandemic, the MyUPMC software group of UPMC 
 
 1.  Everyone in the department was sent home. This meant rethinking our communication and collaboration methods. The increased digital communication increased the possibility of communication overhead overload.
 2.  A freshly approved new budget meant that the program would be doubling in size. That meant onboarding people and organizing teams without seeing each other face-to-face or interacting through typical conversation. This doubling in size meant that a more planned out and comprehensive onboarding strategy and orientation would also be required.
-3.  Lastly, there was a sudden spike of customer requests related to COVID-19 testing, which meant a succession of expedited production releases were on the table. 
+3.  Lastly, there was a sudden spike of customer requests related to COVID-19 testing, which meant a succession of expedited production releases were on the table.
 
 To summarize, the entire operation needed to move faster, grow, and change the standard way of working at the same time and in a very short period of time. For all of the above reasons, significant changes needed to happen in processes and procedures. In the past, we got by having some meetings and conversations and going for walks one-on-one with folks to socialize ideas and settle on changes over time, but that whole dynamic was going to be different now. Suddenly the need for a canonical written source of process and procedures became evident. We needed a masthead, a comprehensive truth source that unpacked our shared software delivery process at the program level. The result of trying to address this need was the publication of a program-wide "Agility Handbook". 
 
@@ -73,7 +73,7 @@ Now one possible alternative to doing this would be to have new folks read the S
 Two final thoughts before moving into our final section:
 
 *   The MyUPMC Agiltu handbook is not yours.
-*   Existing handbooks and manuals are great starting points and templates for your organization's handbook. 
+*   Existing handbooks and manuals are great starting points and templates for your organization's handbook.
 
 **Essential Characteristics**
 
