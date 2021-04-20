@@ -22,9 +22,9 @@ By what order of magnitude would you imagine the difference to be between the hi
 
 Statistics show that human beings are spending years of their life and unnecessary commutes. These commutes are costly from my fuel and automobile maintenance standpoint. They're costly from an insurance and increasing the chance of accidents standpoint. They're costly from an environmental and storage (parking) standpoint. A dramatic way in which employees can be compensated is in removing this overhead altogether. 
 
-## Speed
+## Speed and Flexibility
 
-Faster delivery. By organizing into time-shifted teams, an organization has the ability to dramatically increase its productivity and rate of delivery.
+Faster delivery. By organizing into time-shifted teams, an organization has the ability to dramatically increase its productivity and rate of delivery. It does this by employing a continuous flow of delivery. There are several advantages to this. One of them is it any blockers can employ the help of the team picking up the next sunrise shift. Some have described this is like having a friend in the future because you end your day with a thorny problem and wake up with a solution in the morning and all the teams get to experience the same advantage. Another advantage is being able to provide around-the-clock support to your customers and rapid responses to critical issues.
 
 ## Teams as Timeshifted Cells
 
